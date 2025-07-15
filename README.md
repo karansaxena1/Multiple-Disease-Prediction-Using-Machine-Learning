@@ -1,6 +1,6 @@
-# 🏥 Multiple Disease Prediction - Heart & Kidney 🩺
+# 🏥 MediPredict - Multiple Disease Prediction - Heart & Kidney 🩺
 
-Welcome to the **Multiple Disease Prediction** project! 🚀 This repository contains two predictive models for **Heart Disease** ❤️ and **Chronic Kidney Disease (CKD)** 🩸, utilizing **Machine Learning (ML)** techniques to assist in early diagnosis and risk assessment.
+Welcome to the **MediPredict - Multiple Disease Prediction** project! 🚀 This repository contains two predictive models for **Heart Disease** ❤️ and **Chronic Kidney Disease (CKD)** 🩸, utilizing **Machine Learning (ML)** techniques to assist in early diagnosis and risk assessment.
 
 ## Working Link
 https://medipredict.streamlit.app/
